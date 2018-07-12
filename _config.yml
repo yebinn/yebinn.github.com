@@ -40,8 +40,8 @@ email: flugent.j@gmail.com
 avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: "https://yebinn.github.io" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://yebinn.github.com" # the base hostname & protocol for your site
 
 # Social settings
 facebook_url:
